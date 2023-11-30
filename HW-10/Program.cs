@@ -48,7 +48,7 @@ namespace HW_10
             Event event3 = new Event("МиМ ИВМиИТ", new DateTime(2023, 30, 11), group321, 3);
             event3.Select();
             event3.Print();
-            Event event4 = new Event("Квиз", new DateTime(2023, 12, 10), group322, 1);
+            Event event4 = new Event("Квиз", new DateTime(2023, 30, 11), group322, 1);
             event4.Select();
             event4.Print();
             Console.ReadKey();
